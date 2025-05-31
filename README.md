@@ -40,8 +40,29 @@ Le tout repose sur une **base de données SQLite** et une interface développée
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/TON_UTILISATEUR/projet-hotel-2025.git
+git clone https://github.com/Nasser-com/projet-hotel-2025.git
 cd projet-hotel-2025
 **
+Créer la base :
 
+
+python create_db.py
+Lancer l’application Streamlit :
+
+
+streamlit run app.py
+Ouvrir dans le navigateur :
+
+
+http://localhost:8501
+
+
+---
+
+### 📌 À faire :
+✅ **Remplace** `https://github.com/TON_UTILISATEUR/projet-hotel-2025.git` par le vrai lien vers **ton propre dépôt GitHub** (tu peux le copier dans ton navigateur, en haut).
+
+---
+
+Si tu veux, **colle-moi ici ton lien GitHub**, et je te pr
 
